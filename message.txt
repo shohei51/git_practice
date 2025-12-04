@@ -1,3 +1,4 @@
 main-test
 mainからの更新
 update-message
+リリースタグの更新をします。
