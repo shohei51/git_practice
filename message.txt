@@ -3,3 +3,4 @@ mainからの更新
 update-message
 リリースタグの更新をします。
 サイドリリースタグの更新をします。
+issueで作ったbranchからの修正。
